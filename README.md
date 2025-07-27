@@ -156,13 +156,23 @@ pywin32==306
 
 ```
 2. Создайте файл .gitignore:
-   ```text
-__pycache__/
+   
+`__pycache__/
 *.pyc
 *.log
-temp/
+temp/`
 
 3. Добавьте файл лицензии MIT (назовите LICENSE)
+
+
+
+
+
+
+
+
+
+
 
 
 
