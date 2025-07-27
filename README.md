@@ -146,15 +146,14 @@ Privilege Escalation
 
 
 
-```text
+
 
 ## Рекомендации по улучшению
 
 1. Добавьте файл `requirements.txt` с зависимостями:
-```txt
-pywin32==306
 
-```
+```pywin32==306```
+
 2. Создайте файл .gitignore:
    
 `__pycache__/
